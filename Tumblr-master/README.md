@@ -4,7 +4,7 @@ A simple iOS application which uses Tumblr Api to provide the feeds in the custo
 
 
 
-# Lab 2 - Tumblr
+
 <a href="https://imgflip.com/gif/2f79lg"><img src="https://i.imgflip.com/2f79lg.gif" title="made at imgflip.com"/></a>
 
 Application uses Alamofire to display images and AF Networking to connect with the REST api.
