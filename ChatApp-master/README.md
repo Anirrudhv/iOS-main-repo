@@ -1,4 +1,4 @@
-# Lab 4 - ChatterBox
+ChatterBox
 
 **ChatterBox is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
