@@ -9,7 +9,10 @@ Used alamofire to display images and profile pictures of users.
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgflip.com/gif/3fyh3b"><img src="https://i.imgflip.com/3fyh3b.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3fyhq6"><img src="https://i.imgflip.com/3fyhq6.gif" title="made at imgflip.com"/></a>
+
+<a href="https://imgflip.com/gif/3fyhrk"><img src="https://i.imgflip.com/3fyhrk.gif" title="made at imgflip.com"/></a>
+
 
 ## License
 
